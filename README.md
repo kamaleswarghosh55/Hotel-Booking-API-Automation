@@ -71,4 +71,6 @@ The `db.json` file acts as the data backend, simulating:
 
 ## Contact
 
-If you face any issues or have suggestions, feel free to open an issue or connect via LinkedIn.
+If you face any issues or have suggestions, feel free to open an issue or connect via LinkedIn or Email.
+🖇️https://www.linkedin.com/in/kamaleswarghosh/
+✉️kamaleswarghosh55@gmail.com
